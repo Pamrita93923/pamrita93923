@@ -6,4 +6,4 @@ I also enjoy exploring new ideas, trying out small experiments, and making my wo
 
 Check out my work:
 
-🚀 Check out my portfolio here: https://pamrita93923.github.io/P-Amrita-Portfolio/
+🚀 Check out my portfolio here:  https://pamrita93923.github.io/Amrita-Portfolio/
