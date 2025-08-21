@@ -1,7 +1,6 @@
 # Hey, I'm Amrita 👋  
 
-👩‍💻 Web Developer & Aspiring Data Analyst  
-🚀 Check out my [Portfolio](https://pamrita93923.github.io/P-Amrita-Portfolio/)  
-💻 Skills: HTML, CSS, JS, Python, SQL  
+👩‍💻 Front end Developer & Aspiring Data Analyst 
+💻 Skills: HTML, CSS, Python, SQL, Excel, Numpy, Pandas   
 ✨ Always learning and building projects  
 
